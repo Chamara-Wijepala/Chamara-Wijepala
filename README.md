@@ -21,6 +21,6 @@
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
-<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+<img align="left" alt="" width="50px" src="https://styled-components.com/atom.png" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
