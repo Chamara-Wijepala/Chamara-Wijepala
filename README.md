@@ -10,7 +10,7 @@
 ## A little bit about me
 
 - 💻 I'm a self taught frontend developer
-- 🌱 I’m currently learning Material UI and polishing my skills with React and TypeScript
+- 🌱 I’m currently polishing my skills with React and TypeScript
 - 📫 Contact me: chamarawijepala00@gmail.com | [Portfolio](https://chamara-wijepala.onrender.com/)
 
 ## My skills
@@ -22,5 +22,4 @@
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />          
 <img align="left" alt="" width="50px" src="https://styled-components.com/atom.png" />
-<img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
